@@ -5,3 +5,4 @@ def f(n, b):
        summ += int(n[i]) * b ** i
    return summ
 print(f('1000',2))
+print("Hello world!")
