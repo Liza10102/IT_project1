@@ -6,3 +6,4 @@ def f(n, b):
    return summ
 print(f('1000',2))
 print("Hello world!")
+print("Hello world!2")
